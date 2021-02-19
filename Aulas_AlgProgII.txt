@@ -1,0 +1,14 @@
+--------------------------------------------------
+--------- Algoritmos e Programação II TADS - BJD
+--------------------------------------------------
+TADS 12 alunos
+BJD 23 alunos
+Total 35 alunos
+Link do GitHub das aulas
+https://github.com/flubacheski/AlgProgII
+
+12/02 - exercicios https://codingbat.com/java/Array-1  o primeiro e o último
+      - aula online:  https://ca-lti.bbcollab.com/recording/df0edfdd55a8495185f49b572dbd69ed
+
+19/02 - download netbeans 8.2 - https://netbeans.org/downloads/old/8.2/
+ 
