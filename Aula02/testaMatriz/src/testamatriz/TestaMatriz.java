@@ -33,6 +33,7 @@ public class TestaMatriz {
         for( int i=0; i < m.length;i++){ // indice i anda na linha
             for(int j=0; j<m[0].length;j++){ // indice j anda na coluna
                  System.out.println("matriz["+i+"]["+j+"]:"+m[i][j]);
+                 
             }
         }
     }
